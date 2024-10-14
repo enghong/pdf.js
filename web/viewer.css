@@ -318,7 +318,6 @@ body {
 #mainContainer {
   position: absolute;
   inset: 0;
-  min-width: 350px;
   margin: 0;
   display: flex;
   flex-direction: column;
